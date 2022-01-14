@@ -17,7 +17,7 @@ Contact with me via these platforms!
 <a href="https://spring.io/projects/spring-boot"> <img src="https://user-images.githubusercontent.com/81221395/146985591-f7571872-8ff9-481c-a319-bc9c22599bac.png" width="70" /> </a>
 <a href="#"> <img width="10" /> </a>
 <a href="https://www.ansible.com/"> <img src="https://www.ansible.com/hubfs/Logo-Red_Hat-Ansible-A-Reverse-SVG.svg" width="100" /> </a>
-<a href="#"> <img width="20" /> </a>
+<a href="#"> <img width="30" /> </a>
 <a href="https://www.docker.com/"> <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="100" /> </a>
 <a href="#"> <img width="20" /> </a>
 <a href="https://www.iis.net/"> <img src="https://www.mshowto.org/images/articles/2019/05/logo_iis.png" width="100" /> </a>
