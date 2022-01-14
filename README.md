@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://www.ansible.com/"> <img src="https://www.ansible.com/hubfs/Logo-Red_Hat-Ansible-A-Reverse-SVG.svg" width="100" /> </a>
+<a href="#"> <img width="15" /> </a>
 
 <!--
 **ufukbayraktar/ufukbayraktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
