@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Ufuk Bayraktar
-- 🏢 I software developer.
+- 🏢 I’m software developer.
 
 Contact with me via these platforms!
 
