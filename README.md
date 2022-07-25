@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Ufuk Bayraktar
-- 🏢 I am middleware engineer and software developer of the future.
-- 👀 I’m interested in PowerShell,IIS, Ansible,RedHat for job. I'm interested in Java, Spring Boot for my future.
+- 🏢 I software developer.
 
 Contact with me via these platforms!
 
